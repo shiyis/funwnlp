@@ -154,8 +154,7 @@ Hypothesis that Animals Are Automata, and Its History" he wrote:
 The consciousness of brutes would appear to be related to the mechanism of their body simply as a collateral product of
 its working, and
 to be as completely without any power of modifying that working as the steam-whistle which accompanies the work of a
-locomotive engine is
-without influence upon its machinery.
+locomotive engine is without influence upon its machinery.
 
 _Their volition, if they have any, is an emotion indicative of physical changes, not a cause of such
 changes. […]_
