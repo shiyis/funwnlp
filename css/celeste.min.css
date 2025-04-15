@@ -1467,6 +1467,12 @@ img[alt=intro] {
 }
 
 
+.no-pad {
+  padding: 0 !important;
+  margin: 0 !important; /* optional */
+}
+
+
 img[alt=info1] {
   background-color: white;
 }
