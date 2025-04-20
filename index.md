@@ -1,5 +1,5 @@
 
-![intro](./assets/nlpwme (2).png)
+![intro](./assets/nlpwme2-m.png)
 
 # Understanding Natural Language Processing with Me!
 
