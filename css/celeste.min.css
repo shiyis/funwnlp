@@ -1177,6 +1177,9 @@ pre code {
 
 @media screen and (max-width: 1024px) {
 
+  * {
+    zoom: 110%;
+  }
 
   img[alt=intro] {
     width: 320px;
