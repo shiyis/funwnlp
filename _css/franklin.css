@@ -416,6 +416,15 @@ code {
   border: dotted
 }
 
+/* zoom effect */
+body.zoomed {
+  transform: scale(1.1);
+  transform-origin: top left;
+  width: 90.91%;
+  overflow-x: hidden;
+}
+
+
 
 code {
   font-family: 'Courier New', Courier, monospace;
