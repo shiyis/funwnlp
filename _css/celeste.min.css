@@ -1334,8 +1334,8 @@ blockquote {
 @media screen and (max-width: 500px) {
 
   .franklin-content h1 {
-    color: black;
-    margin-top: -5rem;
+    font-size: large;
+    margin-top: 2rem;
   }
 
   img[alt=intro] {

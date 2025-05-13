@@ -557,8 +557,8 @@ pre.code-output {
 }
 
 .franklin-content h1 {
-  color: black;
-  margin-top: -3rem;
+  font-size: xx-small;
+  margin-top: 1rem;
   margin-bottom: 0;
   font-size: 1.45em;
   border: none;
