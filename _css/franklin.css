@@ -437,7 +437,19 @@ code {
 
 }
 
+
+@media screen and (max-width: 500px) {
+  .franklin-content h1 {
+    color: black;
+    margin-top: -5rem;
+  }
+}
+
 @media (min-width:500px) {
+
+
+  
+
   .row {
     width: 97%;
     display: block;
@@ -552,6 +564,8 @@ pre.code-output {
 }
 
 .franklin-content h1 {
+  color: black;
+  margin-top: -4rem;
   margin-bottom: 0;
   font-size: 1.45em;
   border: none;
@@ -559,6 +573,9 @@ pre.code-output {
   margin-right: 0.3rem;
   margin-left: 0.3rem;
 }
+
+
+
 
 .franklin-content h2 {
   border: none;
