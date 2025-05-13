@@ -1169,6 +1169,9 @@ pre code {
 }
 
 @media screen and (min-width: 765px) and (max-width: 940px){
+
+
+  
   .container, .franklin-content {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -1179,10 +1182,19 @@ pre code {
 
 }
 
+img[alt=intro] {
+  width: 385px;
+  margin-left: 21%;
+  margin-right: 50%;
+  display: block;
+}
+
+
 @media screen and (max-width: 1024px) {
 
   img[alt=intro] {
-    width: 320px;
+    margin-left: 23%;
+    margin-right: 50%;
     opacity: 1;
   }
 
@@ -1316,18 +1328,13 @@ blockquote {
 
 
 
-img[alt=intro] {
-  width: 385px;
-  display: block;
-  margin-left: 21%;
-  margin-right: 50%;
-}
 
 
 
 @media screen and (max-width: 500px) {
   img[alt=intro] {
-    width: 320px;
+    width: auto;
+    margin-left: -1%;
     opacity: 0.95;
   }
 
