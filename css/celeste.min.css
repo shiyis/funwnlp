@@ -13,7 +13,11 @@
 .highlight .err {
   color: #a00;
   background-color: #faa
-}
+}width: 400px;
+display: block;
+margin-left: 20%;
+margin-right: 50%;
+/* width: 23%;
 
 .highlight .k {
   color: #069    "-moz-transform": "scale(0.9)",
@@ -1313,11 +1317,10 @@ blockquote {
 
 
 img[alt=intro] {
-  width: 320px;
+  width: 385px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  /* width: 23%; */
+  margin-left: 21%;
+  margin-right: 50%;
 }
 
 
