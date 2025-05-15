@@ -1344,14 +1344,17 @@ blockquote {
 
 @media screen and (max-width: 500px) {
 
+  p {
+    padding-right: 0.5rem;
+  }
+
   .franklin-content h1 {
     font-size: large;
     margin-top: -0.1rem;
   }
 
   img[alt=intro] {
-    width: 520px;
-    margin-left: auto;
+    width: max-content;
     opacity: 0.95;
   }
 
