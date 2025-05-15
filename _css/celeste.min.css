@@ -675,7 +675,7 @@ p {
   text-align: left;
   overflow-wrap: break-word;
   padding-left: 0.5rem;
-  padding-right: 1.5rem;
+  padding-right: 1.7rem;
 }
 
 strong {
@@ -1194,7 +1194,7 @@ img[alt=intro] {
 @media screen and (max-width: 1024px) {
 
   img[alt=intro] {
-    width: 450px;
+    width: 485px;
     opacity: 1;
   }
 
@@ -1345,7 +1345,7 @@ blockquote {
   }
 
   img[alt=intro] {
-    width: 500px;
+    width: 520px;
     margin-left: auto;
     opacity: 0.95;
   }
