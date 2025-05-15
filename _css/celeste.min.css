@@ -1193,6 +1193,11 @@ img[alt=intro] {
 
 @media screen and (max-width: 1024px) {
 
+  p {
+    padding-right: 1.7rem;
+
+  }
+
   img[alt=intro] {
     width: 485px;
     opacity: 1;
