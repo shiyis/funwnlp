@@ -675,6 +675,7 @@ p {
   text-align: left;
   overflow-wrap: break-word;
   padding-left: 0.5rem;
+  padding-right: 1.5rem;
 }
 
 strong {
@@ -1183,9 +1184,9 @@ pre code {
 }
 
 img[alt=intro] {
-  width: 385px;
-  margin-left: 21%;
-  margin-right: 50%;
+  width: 485px;
+  margin-left: auto;
+  margin-right: auto;
   display: block;
 }
 
@@ -1193,8 +1194,7 @@ img[alt=intro] {
 @media screen and (max-width: 1024px) {
 
   img[alt=intro] {
-    margin-left: 21%;
-    margin-right: 50%;
+    width: 450px;
     opacity: 1;
   }
 
@@ -1329,7 +1329,7 @@ blockquote {
 
 @media screen and (max-width: 850px) {
   img[alt=intro] {
-    width: auto;
+    width: 485px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -1345,8 +1345,8 @@ blockquote {
   }
 
   img[alt=intro] {
-    width: auto;
-    margin-left: -1%;
+    width: 500px;
+    margin-left: auto;
     opacity: 0.95;
   }
 
