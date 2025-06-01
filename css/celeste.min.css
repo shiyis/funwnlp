@@ -1330,7 +1330,7 @@ blockquote {
 
 @media screen and (max-width: 850px) {
   img[alt=intro] {
-    width: 485px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
   }
