@@ -1,4 +1,4 @@
-![intro](./assets/1.png)
+![intro](./assets/1 copy.png)
 
 # Understanding Natural Language Processing with Me!
 
