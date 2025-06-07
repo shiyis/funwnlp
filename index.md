@@ -1,4 +1,4 @@
-![intro](./assets/4.png)
+![intro](./assets/6.png)
 
 # Understanding Natural Language Processing with Me!
 
