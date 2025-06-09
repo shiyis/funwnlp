@@ -30,9 +30,9 @@ website_descr = "Example website using Franklin"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 +++
 
-@def title = "NLPwShiyi | Natural Language Processing with Shiyi"
+@def title = "FUNWNLP | Let's Learn Natural Language Processing!"
 @def website_description = "Website for documenting my journey of understanding Natural Language Processing"
-@def prepath = "nlpwme"
+@def prepath = "funwnlp"
 
 
 @def lang = "julia"
